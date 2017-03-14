@@ -5,9 +5,9 @@
 使用PHP + MySQL当做后台，前台是React + Redux + react-router + webpack + babel + jQuery + BootStrap + ES6。
 
 ## 下载
-  git clone https://github.com/shiruiWeb/reactproiect.git
+  git clone  https://github.com/shiruiWeb/reactproject.git
 
- 	cd reactproiect
+ 	cd reactproject
 
  	npm install 
 
